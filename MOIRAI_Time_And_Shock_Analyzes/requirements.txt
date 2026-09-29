@@ -1,0 +1,8 @@
+torch
+uni2ts
+gluonts[torch]
+numpy
+pandas
+matplotlib
+scipy
+yfinance
